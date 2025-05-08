@@ -1,0 +1,3 @@
+[submodule "itsp"]
+	path = itsp
+	url = git@github.com:Speech-Interaction-Technology-Aalto-U/itsp.git
